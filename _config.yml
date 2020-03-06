@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://guapgetter.github.io/"
+url: "https://snoopy.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
