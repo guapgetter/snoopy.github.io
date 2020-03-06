@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://snoopy.github.io/"
+baseurl: " "
+url: "https://guapgetter.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -83,4 +83,4 @@ plugins: [jekyll-paginate]
 exclude:
   - Gemfile
   - Gemfile.lock
-remote_theme: rohanchandra/type-theme
+  remote_theme: rohanchandra/type-theme
